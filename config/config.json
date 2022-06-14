@@ -1,0 +1,15 @@
+{
+  "development": {
+    "appname":"Converter",
+    "host": "localhost",
+    "serverport": "8080",
+    "baseurl": "http://localhost:8080/"
+  },
+  "production": {
+    
+    "appname":"Converter",
+    "host": "localhost",
+    "serverport": "3080",
+    "baseurl": "https://converter.emendy.fr/"
+  }
+}
